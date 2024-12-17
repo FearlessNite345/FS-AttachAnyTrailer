@@ -1,3 +1,1 @@
--- Main server code goes here
-
-exports['FS-Lib']:VersionCheck('resource-display-name', 'username/repo')
+exports['FS-Lib']:VersionCheck('FS-AttachAnyTrailer', 'fearlessnite345/FS-AttachAnyTrailer')
